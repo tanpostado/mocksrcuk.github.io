@@ -1,0 +1,11 @@
+.interactable {
+    border:0;
+    line-height:2.5;
+    padding:0 20px;
+    font-size:1rem;
+    text-align:center;
+    color:#fff;
+    border-color:#444;
+    border-radius:5;
+    background-color:#000;
+}
